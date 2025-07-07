@@ -1,4 +1,4 @@
 # Demo
-this is my firset giy repository
+this is my firset git repository
 <br>
-feeling lil dull today
+learning start again
